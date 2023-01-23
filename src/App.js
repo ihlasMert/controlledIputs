@@ -1,10 +1,10 @@
 import './App.css'
-import MultipleReturns from './multipleReturn'
+import ControlledInputs from './forms'
 
 function App() {
   return (
-    <div>
-      <MultipleReturns></MultipleReturns>
+    <div className='con'>
+      <ControlledInputs></ControlledInputs>
     </div>
   )
 }
